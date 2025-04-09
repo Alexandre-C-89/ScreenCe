@@ -23,7 +23,6 @@ Reproduction :
 
 ![app_clone](https://github.com/user-attachments/assets/5e054e6a-8aca-47bd-9978-3f4f1269db5e)
 
-> 📷 *Les captures d'écran sont placées dans le dossier `captures/`. Tu peux les remplacer par tes propres images.*
 
 ## ⚙️ Tech stack
 
