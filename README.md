@@ -1,6 +1,6 @@
 # 🏦 Écran d'accueil Caisse d'Épargne - Reproduction UI
 
-Ce projet est une reproduction fidèle de l'écran d'accueil de l'application mobile de la **Caisse d'Épargne**, réalisée avec **Jetpack Compose**.
+Ce projet est une reproduction de l'écran d'accueil de l'application mobile de la **Caisse d'Épargne**, réalisée avec **Jetpack Compose**.
 
 ## ✨ Objectif
 
@@ -11,9 +11,6 @@ L'objectif de ce projet est de recréer l'interface utilisateur d'une applicatio
 - Améliorer mes compétences en design system et composition
 
 ## 🖼️ Comparaison visuelle
-
-| Application officielle | Reproduction avec Compose |
-|------------------------|----------------------------|
 
 Original :
 
