@@ -14,7 +14,7 @@ L'objectif de ce projet est de recréer l'interface utilisateur d'une applicatio
 
 | Application officielle | Reproduction avec Compose |
 |------------------------|----------------------------|
-| ![App réelle](captures/app_original.png) | ![Reproduction de l'écran d'accueil](captures/app_clone.jpg) |
+| ![App réelle](captures/app_original.jpg) | ![Reproduction de l'écran d'accueil](captures/app_clone.jpg) |
 
 > 📷 *Les captures d'écran sont placées dans le dossier `captures/`. Tu peux les remplacer par tes propres images.*
 
