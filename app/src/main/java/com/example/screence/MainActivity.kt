@@ -65,8 +65,9 @@ fun Home(
             contentDescription = "image de fond",
             contentScale = ContentScale.Crop
         )
+        Spacer(modifier = Modifier.height(16.dp))
         Column(
-            modifier = Modifier.fillMaxSize().padding(16.dp),
+            modifier = Modifier.fillMaxSize().padding(horizontal = 16.dp, vertical = 34.dp),
             verticalArrangement = Arrangement.SpaceBetween,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
